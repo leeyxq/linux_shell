@@ -22,4 +22,4 @@
   * * 原点显示
 
 [![marry]](https://github.com/leeyxq/)
-[marry]:https://github.com/leeyxq/linux_shell/raw/master/DSC_0305.JPG
+[marry]:https://github.com/leeyxq/linux_shell/raw/master/DSC_0305.JPG "结婚照"
